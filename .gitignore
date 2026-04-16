@@ -1,0 +1,9 @@
+venv/
+data/
+models/
+requirements/kaggle.json
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pth
+*.h5
