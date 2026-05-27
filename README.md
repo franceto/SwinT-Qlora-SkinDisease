@@ -46,7 +46,6 @@ Dự án tập trung vào bài toán **multi-class image classification** với 
 
 </div>
 
-> Nếu chưa có ảnh demo, hãy đặt ảnh vào `logs/test_predictions.png` hoặc sửa lại đường dẫn ảnh trong README.
 
 ---
 
